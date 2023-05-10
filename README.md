@@ -1,6 +1,11 @@
-### Hi, I'm Connor 👋
+# Hi, I'm Connor 👋
+<p align="center"><img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="300"/></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/connor-fitzpatrick1/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=connorfitzpatrick&style=flat&color=blue" alt=""></p>
 
-### I am a Software Developer who is passionate about working on exciting projects and learning new things. On this page you can find old  projects that I have worked on in the past, as well as new ones that I am currently working on. But First, a little about me:
+### I am a Full Stack Software Developer who is passionate about working on exciting projects and learning new things. On this page you can find old  projects that I have worked on in the past, as well as new ones that I am currently working on. But First, a little about me:
 
 **Career History:** Software Developer at GM
 
