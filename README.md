@@ -7,18 +7,23 @@
 
 ### I am a Full Stack Software Developer who is passionate about working on exciting projects and learning new things. On this page you can find old  projects that I have worked on in the past, as well as new ones that I am currently working on. But First, a little about me:
 
-**Career History:** Software Developer at GM
+**Career History:** 
+- Software Developer at [General Motors](https://www.gm.com/) (June 2022 - Current).
+- Software Development Intern at [FastCase Inc](https://www.fastcase.com/) (May 2020 - August 2021).
 
 **Education:** 
-M.S. in Computer Science - Software Development, Marist College (2021 - 2022).
-B.S. in Computer Science - Software Development, Marist College (2017 - 2021).
+- M.S. in Computer Science - Software Development, Marist College (2021 - 2022).
+- B.S. in Computer Science - Software Development, Marist College (2017 - 2021).
 
 **Languages:**
 - Java
 - Python
 - Javascript
+- Typescript
 - SQL
 - Rust
+- Go
+- Swift
 <!--
 **connorfitzpatrick/connorfitzpatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
