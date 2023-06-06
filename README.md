@@ -5,8 +5,8 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=connorfitzpatrick&style=flat&color=blue" alt=""></p>
 
-<h3>I am a Full Stack Software Developer who is passionate about working on exciting projects and learning new things. On this page you can find old projects that I have worked on in the past, as well as new ones that I am currently working on. But First, a little about me:</h3>
-
+<h2>I am a Full Stack Software Developer who is passionate about working on exciting projects and learning new things. On this page you can find old projects that I have worked on in the past, as well as new ones that I am currently working on. But first, a little about me:</h2>
+<br>
 <h2>Career History<h2>
 <ul>
   <li>Software Developer at <a href="https://www.gm.com/">General Motors</a> (June 2022 - Current).</li>
