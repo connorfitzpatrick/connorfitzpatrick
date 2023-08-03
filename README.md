@@ -26,8 +26,8 @@
 <div align="center">
   <img
        width="50"
-       src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
-       alt="React Native"
+       src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"
+       alt="HTML5"
   />
   <img
        width="50"
@@ -36,8 +36,13 @@
   />
   <img
        width="50"
-       src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"
-       alt="HTML5"
+       src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
+       alt="React Native"
+  />
+  <img
+       width="50"
+       src="https://camo.githubusercontent.com/b9b1c0029ece2f7cdb79f8c963a67c21fd32b6d8f7a44248b33f1bcf854bd0d9/68747470733a2f2f6272616e64736c6f676f732e636f6d2f77702d636f6e74656e742f75706c6f6164732f696d616765732f6c617267652f616e67756c61722d69636f6e2d6c6f676f2e706e67"
+       alt="Angular"
   />
   <img
        width="50"
