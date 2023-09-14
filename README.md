@@ -105,6 +105,11 @@
   />
   <img
        width="50"
+       src="https://logowik.com/content/uploads/images/elasticsearch6390.jpg"
+       alt="ElasticSearch"
+  />
+  <img
+       width="50"
        src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"
        alt="Git"
   />
