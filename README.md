@@ -90,7 +90,7 @@
   />
   <img
        width="50"
-       src="https://image.winudf.com/v2/image1/YWlyLlNRTEVkaXRvcl9pY29uXzE1NjY5OTkyOTJfMDc5/icon.png?w=&fakeurl=1"
+       src="https://www.pngwing.com/en/free-png-zcabu"
        alt="SQL"
   />
   <img
