@@ -41,7 +41,7 @@
   />
   <img
        width="50"
-       src="https://camo.githubusercontent.com/b9b1c0029ece2f7cdb79f8c963a67c21fd32b6d8f7a44248b33f1bcf854bd0d9/68747470733a2f2f6272616e64736c6f676f732e636f6d2f77702d636f6e74656e742f75706c6f6164732f696d616765732f6c617267652f616e67756c61722d69636f6e2d6c6f676f2e706e67"
+       src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Angular_icon.svg/1280px-Angular_icon.svg.png"
        alt="Angular"
   />
   <img
