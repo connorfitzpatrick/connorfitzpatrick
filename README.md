@@ -16,7 +16,7 @@
 
 <h2>Education<h2>
 <ul>
-  <li>M.S. in Artificial Intelligence, University of Texas at Austin (In Progress).</li>
+  <li>M.S. in Artificial Intelligence, The University of Texas at Austin (In Progress).</li>
   <li>M.S. in Computer Science - Software Development, Marist College (2021 - 2022).</li>
   <li>B.S. in Computer Science - Software Development, Marist College (2017 - 2021).</li>
 </ul>
@@ -122,7 +122,7 @@
   />
   <img
        width="50"
-       src="https://www.sohamkamani.com/nodejs/expressjs-architecture/express-routing-logo.png"
+       src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png"
        alt="Express.js"
   />
 </div></td></tr></table>
