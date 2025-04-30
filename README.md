@@ -9,12 +9,14 @@
 <br>
 <h2>Career History<h2>
 <ul>
-  <li>Software Developer at <a href="https://www.gm.com/">General Motors</a> (June 2022 - Current).</li>
+  <li>Associate, Java Developer at <a href="https://www.galaxy.com/">Galaxy</a> (April 2025 - Current).</li>
+  <li>Software Engineer at <a href="https://www.gm.com/">General Motors</a> (June 2022 - April 2025).</li>
   <li>Software Development Intern at <a href="https://www.fastcase.com/">FastCase Inc</a> (May 2020 - August 2021).</li>
 </ul>
 
 <h2>Education<h2>
 <ul>
+  <li>M.S. in Artificial Intelligence, University of Texas at Austin (In Progress).</li>
   <li>M.S. in Computer Science - Software Development, Marist College (2021 - 2022).</li>
   <li>B.S. in Computer Science - Software Development, Marist College (2017 - 2021).</li>
 </ul>
